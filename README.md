@@ -1,2 +1,3 @@
 # talentseek
-* testing a project
+* testing a project talent seek
+
